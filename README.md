@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shivam-rawat-222/shivam-rawat-222/output/snake.svg" alt="Snake animation" />
+
 
 ###
